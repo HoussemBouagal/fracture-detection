@@ -192,7 +192,7 @@ fracture-detection/
 ├── model/
 │   └── fraction-model.keras
 ├── requirements.txt
-├── LICENSE                     # MIT License
+├── LICENSE                     
 └── README.md
 ```
 
