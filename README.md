@@ -4,7 +4,7 @@ A professional **web application** built with **Flask** and **TensorFlow** to de
 The model is based on **ResNet101** enhanced with **CBAM (Convolutional Block Attention Module)** for improved feature extraction.
 
 > 📖 **License**: Licensed under the [MIT License](#-license)  
-> ⚠ **Note**: To use the model, download it from Google Drive and place it in the `model` folder inside the project directory.  
+> ⚠ **Note**:To use the model, the user must download it from Google Drive, create a folder named model inside the project directory, extract the file, and place the model inside this folder. 
 > [📥 Download Model](https://drive.google.com/file/d/11dzRztVvQfnlqYvubLQ2OaVESjsz9q_D/view?usp=sharing)
 
 ---
@@ -131,7 +131,7 @@ Download it from: [Google Drive](https://drive.google.com/file/d/1YcEMqlBmMx0nK2
 Place it in:
 
 ```
-project/model/fraction-model.keras
+fracture-detection/model/fraction-model.keras
 ```
 
 ### 4️⃣ Run the Application
