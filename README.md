@@ -204,13 +204,6 @@ Licensed under the **MIT License**.
 
 ---
 
-## ⚠ Disclaimer
-
-For **educational and research purposes only**.  
-Not intended for clinical or diagnostic use.
-
----
-
 ## 👤 Author
 
 **Houssem Bouagal**  
