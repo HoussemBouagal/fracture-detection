@@ -87,6 +87,7 @@ not fractured       0.99      0.99      0.99       268
 
 ## 🖥 Web Application
 
+![Web Interface](assets/app_interface.png)  
 The application allows users to upload an X-ray image, processes it through the trained model, and returns:
 
 - Prediction label (**fractured** / **not fractured**)
